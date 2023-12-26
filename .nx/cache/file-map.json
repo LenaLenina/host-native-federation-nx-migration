@@ -42,16 +42,28 @@
   "fileMap": {
     "nonProjectFiles": [
       {
-        "file": ".editorconfig",
-        "hash": "6686520031028425313"
+        "file": "libs/.gitkeep",
+        "hash": "3244421341483603138"
+      },
+      {
+        "file": "tools/generators/.gitkeep",
+        "hash": "3244421341483603138"
+      },
+      {
+        "file": ".gitignore",
+        "hash": "13044518069027839699"
       },
       {
         "file": ".vscode/extensions.json",
         "hash": "17824784343261341590"
       },
       {
-        "file": ".gitignore",
-        "hash": "13044518069027839699"
+        "file": ".prettierrc",
+        "hash": "16267754514737964994"
+      },
+      {
+        "file": "package-lock.json",
+        "hash": "12190761479499315068"
       },
       {
         "file": ".prettierignore",
@@ -62,40 +74,28 @@
         "hash": "14665381221722676325"
       },
       {
-        "file": "nx.json",
-        "hash": "6000770728386037787"
+        "file": ".editorconfig",
+        "hash": "6686520031028425313"
       },
       {
-        "file": "tools/tsconfig.tools.json",
-        "hash": "16088922570277978783"
+        "file": "README.md",
+        "hash": "3003359473589203708"
       },
       {
         "file": "karma.conf.js",
         "hash": "9656364725710720620"
       },
       {
-        "file": "package-lock.json",
-        "hash": "12190761479499315068"
-      },
-      {
-        "file": "libs/.gitkeep",
-        "hash": "3244421341483603138"
-      },
-      {
-        "file": "README.md",
-        "hash": "2399653450240180265"
+        "file": "nx.json",
+        "hash": "6000770728386037787"
       },
       {
         "file": "tsconfig.base.json",
         "hash": "5009148364850250737"
       },
       {
-        "file": "tools/generators/.gitkeep",
-        "hash": "3244421341483603138"
-      },
-      {
-        "file": ".prettierrc",
-        "hash": "16267754514737964994"
+        "file": "tools/tsconfig.tools.json",
+        "hash": "16088922570277978783"
       }
     ],
     "projectFileMap": {

@@ -1,21 +1,18 @@
 # Host
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.0.7.
-
 ## Commands
 
-npm install
+get project with native federation
+J:\Projects 3\native\3\host app
 
-ng new host --create-application=false
 
-ng g application host --routing --style=scss
 
-ng add @angular-architects/native-federation --project host --port 4200 --type dynamic-host
+npx nx@latest init --integrated
 
-ng serve host -o
+npx nx serve host -o
 
-npm run build
+npx nx build host
 
 ## deployed application
 
-https://host-native-123456789.netlify.app/
+https://host-nx-migration-from-native-fed123.netlify.app/
