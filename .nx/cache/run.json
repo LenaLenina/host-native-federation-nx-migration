@@ -1,0 +1,21 @@
+{
+  "run": {
+    "command": "nx build host",
+    "startTime": "2023-12-25T15:36:37.826Z",
+    "endTime": "2023-12-25T15:36:37.900Z",
+    "inner": false
+  },
+  "tasks": [
+    {
+      "taskId": "host:build:production",
+      "target": "build",
+      "projectName": "host",
+      "hash": "10894742722173044037",
+      "startTime": "2023-12-25T15:36:37.834Z",
+      "endTime": "2023-12-25T15:36:37.893Z",
+      "params": "",
+      "cacheStatus": "local-cache-hit",
+      "status": 0
+    }
+  ]
+}

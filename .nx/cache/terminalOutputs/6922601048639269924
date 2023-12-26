@@ -1,0 +1,23 @@
+[1m[33mThe esbuild-based browser application builder ('browser-esbuild') is currently in developer preview and is not yet recommended for production use. For additional information, please see https://angular.io/guide/esbuild[39m[22m
+[36m⠋[39m Building...[2K[1G[36m⠙[39m Building...[2K[1G[36m⠹[39m Building...[2K[1G[36m⠸[39m Building...[2K[1G[36m⠼[39m Building...[2K[1G[36m⠴[39m Building...[2K[1G[36m⠦[39m Building...[2K[1G[36m⠧[39m Building...[2K[1G[36m⠇[39m Building...[2K[1G[36m⠏[39m Building...[2K[1G[36m⠋[39m Building...[2K[1G[36m⠙[39m Building...[2K[1G[36m⠹[39m Building...[2K[1G[36m⠸[39m Building...[2K[1G[37m[39m
+[37m[1mInitial Chunk Files[22m[2m | [22m[1mNames[22m        [2m | [22m [1mRaw Size[22m[39m
+[37m[92mpolyfills.js[39m[37m       [2m | [22mpolyfills    [2m | [22m[96m180.77 kB[39m[37m[2m | [22m[39m
+[37m[92mchunk-LC5EWVQW.js[39m[37m  [2m | [22m-            [2m | [22m  [96m6.92 kB[39m[37m[2m | [22m[39m
+[37m[92mchunk-SU2WE4RP.js[39m[37m  [2m | [22m-            [2m | [22m  [96m1.46 kB[39m[37m[2m | [22m[39m
+[37m[92mmain.js[39m[37m            [2m | [22mmain         [2m | [22m[96m310 bytes[39m[37m[2m | [22m[39m
+[37m[92mstyles.css[39m[37m         [2m | [22mstyles       [2m | [22m[96m106 bytes[39m[37m[2m | [22m[39m
+[37m[39m
+[37m[1m [22m                  [2m | [22m[1mInitial Total[22m[2m | [22m[1m189.56 kB[22m[39m
+[37m[39m
+[37m[1mLazy Chunk Files[22m   [2m | [22m[1mNames[22m        [2m | [22m [1mRaw Size[22m[39m
+[37m[92mchunk-2BJSOFPV.js[39m[37m  [2m | [22m-            [2m | [22m  [96m4.63 kB[39m[37m[2m | [22m[39m
+[37m[39m
+[37mApplication bundle generation complete. [2.336 seconds][39m
+[97;42m INFO [0m[35m[0m Building federation artefacts
+[0m[37mWatch mode enabled. Watching for file changes...[39m
+[[34mBrowsersync[39m] [1mAccess URLs:[22m
+ [90m-----------------------------------[39m
+    Local: [35mhttp://localhost:4200[39m
+ External: [35mhttp://192.168.0.108:4200[39m
+ [90m-----------------------------------[39m
+[[34mBrowsersync[39m] Serving files from: [35mdist/apps/host[39m

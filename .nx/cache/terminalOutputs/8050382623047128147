@@ -1,0 +1,6 @@
+
+ [31m>[39m [0m[7m[1m[31m NX [39m[22m[27m[0m  [31m[91merror[0m[90m TS18003: [0mNo inputs were found in config file 'J:/Projects 3/native/5/host/apps/host/tsconfig.spec.json'. Specified 'include' paths were '["src/**/*.spec.ts","src/**/*.d.ts"]' and 'exclude' paths were '["../../node_modules","../../tmp"]'.[39m
+
+   
+   Pass --verbose to see the stacktrace.
+
